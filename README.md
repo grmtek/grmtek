@@ -11,7 +11,7 @@
   ((,.-'   ((,/    ``
 ```
 
-I'm just `some guy` who loves: 
+I'm just `some guy` who loves 
 - 🦅Linux 
 - 🤖Scriptin
 - ☁️Cloud computing 
