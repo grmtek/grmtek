@@ -1,16 +1,25 @@
-### Hi there 👋
+#### Hey there, I'm `Gio`
 
-<!--
-**grmtek/grmtek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=48F700&multiline=true&lines=%24+%3E+install+compassion+%26%26+set+when%3A%E2%88%9E+;%24+%3E+.%2Fcompassion+-for+ALL)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+```
+< mmrawr? >  
+    \
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ("`-/")_.-'"``-._
+      . . `; -._    )-;-,_`)
+     (v_,)'  _  )`-.\  ``-'
+    _.- _..-_/ / ((.'
+  ((,.-'   ((,/    ``
+```
+
+I'm just `some guy` who loves: 
+- 🦅Linux 
+- 🤖Scriptin
+- ☁️Cloud computing 
+- 🪄CLI wizardry 
+- 🏄‍Helping people
+
+__________
+![daria_types](https://64.media.tumblr.com/bccdeeb9298bfea77fbc23d584c71e05/tumblr_p5d4urfvxy1ujjt0jo1_500.gifv)
+
