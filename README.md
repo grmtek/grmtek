@@ -15,6 +15,7 @@ I'm just `some guy` who enjoys:
 - 🦅 Linux 
 - 🤖 Scriptin
 - ☁️ Cloud computing 
+- 🔑 Security
 - 🪄 CLI wizardry 
 - 🔧 Fixing things
 - 🏄‍ Helping people
