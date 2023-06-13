@@ -11,7 +11,7 @@
   ((,.-'   ((,/    ``
 ```
 
-I'm just `some guy` who enjoys:
+I'm just `some hyrax` who enjoys:
 - 🦅 Linux 
 - 🤖 Scriptin
 - 🛡️ Security
