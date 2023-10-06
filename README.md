@@ -1,4 +1,8 @@
+
+
 #### Hey there, I'm Gio
+
+
 
 ```
 < mmrawr? >  
@@ -11,7 +15,9 @@
   ((,.-'   ((,/    ``
 ```
 
-I'm just `some hyrax` who enjoys:
+
+
+I'm just `some khajiit` who enjoys:
 - 🦅 Linux 
 - 🤖 Scriptin
 - 🛡️ Security
@@ -21,7 +27,10 @@ I'm just `some hyrax` who enjoys:
 - 🏄‍ Helping people
 __________
 
-
-![scrobbles](https://lastfm-recently-played.vercel.app/api?user=wretchedspirit&loved=true&loved_style=3&width=600&count=3)
+![song-lute](https://github.com/grmtek/grmtek/assets/25224551/d8bdaabf-308a-47ee-9501-e197292e0441)
 
 ---
+![scrobbles](https://lastfm-recently-played.vercel.app/api?user=wretchedspirit&loved=true&loved_style=3&width=640&count=3)
+
+---
+
