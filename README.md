@@ -32,5 +32,4 @@ __________
 ---
 ![scrobbles](https://lastfm-recently-played.vercel.app/api?user=wretchedspirit&loved=true&loved_style=3&width=640&count=3)
 
----
 
