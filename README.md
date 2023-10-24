@@ -17,7 +17,7 @@
 
 
 
-I'm just `s o m e  g u y` who enjoys:
+I'm just `some dude` who enjoys:
 - 🦅 Linux 
 - 🤖 Scriptin
 - 🛡️ Security
