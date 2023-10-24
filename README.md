@@ -17,7 +17,7 @@
 
 
 
-I'm just `some khajiit` who enjoys:
+I'm just `a mortal being` who enjoys:
 - 🦅 Linux 
 - 🤖 Scriptin
 - 🛡️ Security
