@@ -17,7 +17,7 @@
 
 
 
-I'm just `a mortal being` who enjoys:
+I'm just `s o m e  g u y` who enjoys:
 - 🦅 Linux 
 - 🤖 Scriptin
 - 🛡️ Security
