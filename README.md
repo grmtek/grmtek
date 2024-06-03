@@ -1,6 +1,7 @@
 
 
-#### Hey there, I'm Gio
+#### Hey, you
+#### You're finally awake
 
 
 
@@ -17,14 +18,17 @@
 
 
 
-I'm just `some dude` who enjoys:
+I'm just `some drone` passionate about:
 - 🦅 Linux 
-- 🤖 Scriptin
 - 🛡️ Security
-- ☁️ Cloud computing 
-- 🪄 CLI wizardry 
+- 🤖 Coding
+- ☁️ Cloud computing
+- 🟢 Reliability 
+- 🪄 CLI wizardry
+- 🤿 Deep dives
 - 🔧 Fixing things
 - 🏄‍ Helping people
+  
 
 __________
 
