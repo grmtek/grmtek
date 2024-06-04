@@ -18,15 +18,12 @@ I'm a `fellow human` programmed for:
 - 🦅 Linux 
 - 🛡️ Security
 - 🤖 Coding
+- 🚀 Automation
 - ☁️ Cloud computing
 - 🟢 Reliability 
 - 🪄 CLI wizardry
 - 🔧 Fixing things
 - 🏄‍ Helping people
-  
-
-
-![katttumss](https://github.com/grmtek/grmtek/assets/25224551/0b85c63b-75a7-43b1-86e8-a8096f346eaa)
 
 __________
 
