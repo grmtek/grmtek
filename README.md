@@ -14,7 +14,7 @@
   ((,.-'   ((,/    ``
 ```
 
-I'm a `fellow human` programmed for:
+I'm a `cat's reflection` programmed for:
 - 🦅 Linux 
 - 🛡️ Security
 - 🤖 Coding
