@@ -17,10 +17,8 @@
 I'm a `cat's reflection` programmed for:
 - 🦅 Linux 
 - 🛡️ Security
-- 🤖 Coding
-- 🚀 Automation
+- 🤖 Automation
 - ☁️ Cloud computing
-- 🟢 Reliability 
 - 🪄 CLI wizardry
 - 🔧 Fixing things
 - 🏄‍ Helping people
