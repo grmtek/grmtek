@@ -26,7 +26,3 @@ I'm a `cat's reflection` programmed for:
 
 ![cozy-fire](https://github.com/user-attachments/assets/ebe1d996-37a6-444d-bb65-5d10ac60b99f)
 
----
-![scrobbles](https://lastfm-recently-played.vercel.app/api?user=wretchedspirit&loved=true&loved_style=3&width=640&count=3)
-
-![song-lute](https://github.com/grmtek/grmtek/assets/25224551/d8bdaabf-308a-47ee-9501-e197292e0441)
