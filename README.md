@@ -14,7 +14,7 @@
   ((,.-'   ((,/    ``
 ```
 
-I'm a `cat's reflection` programmed for:
+I'm an `adventurer like you` programmed for:
 - 🦅 Linux 
 - 🛡️ Security
 - 🤖 Automation
