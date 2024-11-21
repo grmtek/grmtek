@@ -1,4 +1,2 @@
 
-![cozy-fire](https://github.com/user-attachments/assets/ebe1d996-37a6-444d-bb65-5d10ac60b99f)
-
-
+![cozy-stream](https://github.com/user-attachments/assets/2236483d-6c27-4758-90f6-6847157e650b)
